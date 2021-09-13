@@ -1,4 +1,4 @@
-# Opravný termín \[60b], 24.6.2021 14:00
+# [60b], 24.6.2021 14:00
 B-OOP 2021
 
 Vytvorte oknovú aplikáciu, ktorá umožní používateľovi "pečiatkovať" dva tvary a spájať ich pomocou čiar. Aplikácia bude mať nasledovnú funkcionalitu (40 bodov):
@@ -60,7 +60,7 @@ Pokiaľ vaše riešenie neobsahuje dostatok implementácie je možné za OOP zí
 
 Vypracovanie skúšky odovzdajte cez Github classroom do miesta odovzdania nato určenom. Odovzdáva sa obsah celého projektu. Na vypracovanie písomky je vyhradený čas 3 hodiny.
 
-# Exam OT \[60pts], 24.6.2021 14:00
+# [60pts], 24.6.2021 14:00
 B-OOP 2021
 
 Your task is to create a java window application. The application allows the user to "stamp" two shapes and connect them with lines. The application has the following functionality (40 points):
